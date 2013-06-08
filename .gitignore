@@ -1,9 +1,7 @@
-/target
-*.project
-*.settings
-*.class
+.classpath
+.project
+.settings
+target/
+bin/
+.idea
 
-# Package Files #
-*.jar
-*.war
-*.ear
