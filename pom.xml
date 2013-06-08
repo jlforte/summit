@@ -26,7 +26,7 @@
 
 	<modules>
 		<module>summit-app</module>
-		<!--module>errai</module-->
+		<module>summit-errai</module>
 		<module>summit-model</module>
 		<module>summit-rest</module>
 		<module>summit-rest-api</module>
